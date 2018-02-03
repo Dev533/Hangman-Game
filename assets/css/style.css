@@ -1,0 +1,10 @@
+#logo {
+    width: 600px ;
+    height: 300 px ;
+    align-content: center ;
+}
+
+#logoaddtext {
+    font-family: 'Bangers', cursive;
+    text-align: center ;
+}
